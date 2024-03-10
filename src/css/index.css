@@ -13,6 +13,16 @@ h1, h2, h3, h4, h5, h6 {
   -moz-osx-font-smoothing: antialiased;
 }
 
+pre {
+  background-color: #a6a6a6;
+  color: #121212;
+  border: .30em solid #161616;
+  border-radius: 7px;
+  line-height: 1.4em;
+  padding: 7px 14px;
+  overflow: auto;
+}
+
 #page-wrap {
   max-width: 800px;
   margin: 0 auto;
