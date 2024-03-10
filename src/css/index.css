@@ -23,6 +23,14 @@ pre {
   overflow: auto;
 }
 
+a {
+  color: #4dac77;
+  text-decoration: none;
+}
+a:hover {
+  color: #a371f7;
+}
+
 #page-wrap {
   max-width: 800px;
   margin: 0 auto;
