@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  SI | Grey  ]]>
+    </title>
+    <link> https://heygrey.dev/si/ </link>
+    <description>
+      <![CDATA[  materials for supplemental instruction in mathematics  ]]>
+    </description>
+    <atom:link
+      href="https://heygrey.dev/si/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+<item>
+  <title>
+    <![CDATA[  Partial Derivatives | MATH 251A  ]]>
+  </title>
+  <link> https://heygrey.dev/si/251a/m2/index.html </link>
+  <guid> https://heygrey.dev/si/251a/m2/index.html </guid>
+  <description>
+    <![CDATA[  supplemental instruction materials for MATH-251A  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Grey</atom:name>
+  </atom:author>
+        
+</item>
+<item>
+  <title>
+    <![CDATA[  Vector Calculus | MATH 251A  ]]>
+  </title>
+  <link> https://heygrey.dev/si/251a/m4/index.html </link>
+  <guid> https://heygrey.dev/si/251a/m4/index.html </guid>
+  <description>
+    <![CDATA[  supplemental instruction materials for MATH-251A  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Grey</atom:name>
+  </atom:author>
+        
+</item>
+<item>
+  <title>
+    <![CDATA[  MATH 251A | SI  ]]>
+  </title>
+  <link> https://heygrey.dev/si/251a/index.html </link>
+  <guid> https://heygrey.dev/si/251a/index.html </guid>
+  <description>
+    <![CDATA[  supplemental instruction materials for MATH-251A  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Grey</atom:name>
+  </atom:author>
+        
+</item>
+<item>
+  <title>
+    <![CDATA[  Vectors | MATH 251A  ]]>
+  </title>
+  <link> https://heygrey.dev/si/251a/m1/index.html </link>
+  <guid> https://heygrey.dev/si/251a/m1/index.html </guid>
+  <description>
+    <![CDATA[  supplemental instruction materials for MATH-251A  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Grey</atom:name>
+  </atom:author>
+        
+</item>
+<item>
+  <title>
+    <![CDATA[  Multiple Integrals | MATH 251A  ]]>
+  </title>
+  <link> https://heygrey.dev/si/251a/m3/index.html </link>
+  <guid> https://heygrey.dev/si/251a/m3/index.html </guid>
+  <description>
+    <![CDATA[  supplemental instruction materials for MATH-251A  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Grey</atom:name>
+  </atom:author>
+        
+</item></channel></rss>
