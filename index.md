@@ -5,4 +5,10 @@
 
 \tableofcontents
 
-## [MATH 251A - Calculus III Workshop](/251a/)
+## [MATH 151A - Calculus I Workshop](/151a/)
+
+[**Associated Lecture**]
+
+Term: **Fall 2024**
+
+Instructor: **Dr. Nicholas Brubaker**
