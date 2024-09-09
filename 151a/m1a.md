@@ -43,9 +43,9 @@ tags = ["calculus 1", "singlevariable calculus"]
 - \begin{equation*}\lim_{x \to \frac{\pi}{2}}\frac{\cot{x}}{\cos{x}}\end{equation*}
 > $1$
 - \begin{equation*}\lim_{x \to 0^-}(\frac{1}{x}-\frac{1}{|x|})\end{equation*}
-> $\infty$
-- \begin{equation*}\lim_{x \to 0^+}(\frac{1}{x}-\frac{1}{|x|})\end{equation*}
 > $-\infty$
+- \begin{equation*}\lim_{x \to 0^+}(\frac{1}{x}-\frac{1}{|x|})\end{equation*}
+> $0$
 - \begin{equation*}\lim_{x \to 0^-}\frac{1}{x}\end{equation*}
 > $-\infty$
 - \begin{equation*}\lim_{x \to 0^+}\frac{1}{x}\end{equation*}
