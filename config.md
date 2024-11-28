@@ -16,7 +16,7 @@ website_url   = "https://heygrey.dev/si/"
 +++
 
 <!--
-Add here global latex commands to use throughout your pages.
+Add here global TeX commands to use throughout your pages.
 -->
 \newcommand{\align}[1]{\begin{aligned}#1\end{aligned}}
 
@@ -26,8 +26,9 @@ Add here global latex commands to use throughout your pages.
 \newcommand{\rm}[1]{\mathrm{#1}}
 \newcommand{\txt}[1]{\text{#1}}
 
-\newcommand{\R}{\bb{R}}
+\newcommand{\F}{\bb{F}}
 \newcommand{\C}{\bb{C}}
+\newcommand{\R}{\bb{R}}
 \newcommand{\Q}{\bb{Q}}
 \newcommand{\Z}{\bb{Z}}
 \newcommand{\N}{\bb{N}}
@@ -35,7 +36,9 @@ Add here global latex commands to use throughout your pages.
 \newcommand{\e}{\rm{e}}
 \newcommand{\i}{\rm{i}}
 
+\newcommand{\d}{\rm{d}}
+
 \newcommand{\deq}{:=}
 \newcommand{\map}[3]{{#1}\colon{#2}\to{#3}}
-
-\newcommand{\d}{\rm{d}}
+\newcommand{\seq}[3]{{#1}^{#2}_1,\dots,{#1}^{#2}_{#3}}
+\newcommand{\ser}[3]{{#1}^{#2}_1+\dots+{#1}^{#2}_{#3}}
