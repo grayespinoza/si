@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  SI | Grey  ]]>
+    </title>
+    <link> https://heygrey.dev/si/ </link>
+    <description>
+      <![CDATA[  materials for supplemental instruction in mathematics  ]]>
+    </description>
+    <atom:link
+      href="https://heygrey.dev/si/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+<item>
+  <title>
+    <![CDATA[  Limits | MATH 151A  ]]>
+  </title>
+  <link> https://heygrey.dev/si/151a/m1/index.html </link>
+  <guid> https://heygrey.dev/si/151a/m1/index.html </guid>
+  <description>
+    <![CDATA[  supplemental instruction materials for MATH-151A  ]]>
+  </description>  
+    
+  <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Grey</atom:name>
+  </atom:author>
+        
+</item>
+<item>
+  <title>
+    <![CDATA[  Limits | MATH 151A  ]]>
+  </title>
+  <link> https://heygrey.dev/si/151a/m1a/index.html </link>
+  <guid> https://heygrey.dev/si/151a/m1a/index.html </guid>
+  <description>
+    <![CDATA[  supplemental instruction materials for MATH-151A  ]]>
+  </description>  
+    
+  <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Grey</atom:name>
+  </atom:author>
+        
+</item>
+<item>
+  <title>
+    <![CDATA[  MATH 151A | SI  ]]>
+  </title>
+  <link> https://heygrey.dev/si/151a/index.html </link>
+  <guid> https://heygrey.dev/si/151a/index.html </guid>
+  <description>
+    <![CDATA[  supplemental instruction materials for MATH-151A  ]]>
+  </description>  
+    
+  <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Grey</atom:name>
+  </atom:author>
+        
+</item>
+<item>
+  <title>
+    <![CDATA[  Preliminaries | MATH 151A  ]]>
+  </title>
+  <link> https://heygrey.dev/si/151a/m0a/index.html </link>
+  <guid> https://heygrey.dev/si/151a/m0a/index.html </guid>
+  <description>
+    <![CDATA[  supplemental instruction materials for MATH-151A  ]]>
+  </description>  
+    
+  <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Grey</atom:name>
+  </atom:author>
+        
+</item>
+<item>
+  <title>
+    <![CDATA[  Preliminaries | MATH 151A  ]]>
+  </title>
+  <link> https://heygrey.dev/si/151a/m0/index.html </link>
+  <guid> https://heygrey.dev/si/151a/m0/index.html </guid>
+  <description>
+    <![CDATA[  supplemental instruction materials for MATH-151A  ]]>
+  </description>  
+    
+  <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Grey</atom:name>
+  </atom:author>
+        
+</item></channel></rss>
